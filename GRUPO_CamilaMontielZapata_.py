@@ -27,7 +27,12 @@ class Marcapasos:
     def __init__(self) -> None:
         pass
 class Stent_c:
-    def __init__(self) -> None:
+
+
+    def __init__(self):
+        self.__longitud=''
+        self.__diametro=''
+        self.__material = ''
         pass
 class Implante_d:
     def __init__(self) -> None:
