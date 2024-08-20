@@ -1,4 +1,7 @@
 class Implantesb:
+
+
+    
     def __init__(self, id, fecha, mto, ):
        self.__ID_implante = id
        self.__fecha_ingreso = fecha 
